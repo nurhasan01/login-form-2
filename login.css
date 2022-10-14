@@ -7,7 +7,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
 
 body {
-  background-image: url(img/rushikesh-gaikwad-s8Q_ljbKf_M-unsplash.jpg);
+  background-image: url(rushikesh-gaikwad-s8Q_ljbKf_M-unsplash.jpg);
 
   color: white;
   justify-content: center;
@@ -78,18 +78,18 @@ a {
   border-bottom: 1px solid #d53b73;
 }
 
-input[type="submit"]{
+input[type="submit"] {
   background-color: #f4d390c0;
   text-align: center;
   color: white;
   font-size: 20px;
-  margin-left:10%;
+  margin-left: 10%;
   margin-top: 30px;
   margin-bottom: 30px;
   width: 80%;
 }
 
-input[type="submit"]:hover{
+input[type="submit"]:hover {
   margin-left: 20%;
   width: 60%;
 }
